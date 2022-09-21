@@ -1,10 +1,7 @@
-// Your Code Here!
+
 
 //console.log("Movies:", movies);
 //console.log("MovieDetails:", movieDetails);
-
-// I'M really thankful to my facilitator "Jon Taylor" who stayed longer than usual to help us with the assignment
-//explaining the steps extremely patient and slowlly for us. Very gratefull 
 // Mdn.org refreshing knowledge from add. at event listener and DOM manipulating .
 // Git Hub offcourse with great designing ideas and simplified codes.
 // Desktop background.org to let me used their wallpaper.
