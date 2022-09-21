@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <!-- Required meta tags-->
+    <meta charset="UTF-8" />
+    <meta
+      name="viewport"
+      content="width=device-width, initial-scale=1, shrink-to-fit=no"
+    />
+
+    <meta name="description" content="Kenzie" />
+    <meta name="author" content="Kenzie" />
+    <meta name="keywords" content="Kenzie" />
+
+    <!-- Title Page-->
+    <title>Kenzie Movie Catalog</title>
+
+    <!-- CSS-->
+    <link href="style.css" rel="stylesheet" media="all" />
+  </head>
+
+  <body style="text-align: center;">
+    <h1>Kenzie Movie Catalog</h1>
+
+   <!-- Write Your HTML Here!-->
+   
+
+   <form>
+    <label for="Title">Search by Title</label>
+    <input type="text" name="Title" id="title" />
+    <label for="Actor/Actress">Search by Actor/Actress</label>
+    <input type="text" name="Actor/Actress" id="actor" />
+    <button type="submit" id="search">
+      <img
+        src="https://cdn2.iconfinder.com/data/icons/font-awesome/1792/search-512.png"
+        alt="search" class="search"
+      />
+    </button>
+  </form>
+  <div id="currentList">
+    <ul class="movieList"></ul>
+  </div>
+  
+    
+    <script src="movieDetails.js"></script>
+    <script src="movies.js"></script>
+    <script src="code.js"></script>
+    <script src="validate.js"></script>
+  </body>
+</html>

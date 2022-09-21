@@ -1,0 +1,40 @@
+/* Write your CSS Here. */
+body {
+	color: rgb(232, 229, 229);
+	background-image:url(https://www.desktopbackground.org/download/1366x768/2010/05/31/25976_black-abstract-wallpapers_1920x1200_h.jpg)
+    
+}
+
+.movieList {
+	list-style: none;
+	display: flex;
+	flex-wrap: wrap;
+	margin: auto;
+	padding-inline-start: 0;
+	justify-content: center;
+}
+
+.movie {
+	border: 3px solid rgb(101, 15, 15);
+	margin: 4px;
+  background-color: black;
+}
+
+.movie,
+img {
+	max-width: 250px;
+}
+
+input {
+	margin: 10px;
+}
+
+.search {
+	width: 14px;
+}
+
+h1 {
+  color: rgb(243, 16, 16);
+	cursor: pointer;
+}
+
