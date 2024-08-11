@@ -2,7 +2,7 @@
 
 //console.log("Movies:", movies);
 //console.log("MovieDetails:", movieDetails);
-// Mdn.org refreshing knowledge from add. at event listener and DOM manipulating .
+        // Mdn.org refreshing knowledge from add. at event listener and DOM manipulating .
 // Git Hub offcourse with great designing ideas and simplified codes.
 // Desktop background.org to let me used their wallpaper.
 
